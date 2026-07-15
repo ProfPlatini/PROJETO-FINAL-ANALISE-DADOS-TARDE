@@ -24,8 +24,8 @@ modelo.fit(X,y)
 def inicio():
     return jsonify({
         
-        "Resposta":"API online, Flask rodando corretamente"
-        
+        "Resposta":"API online, Flask rodando corretamente",
+        "Como testar?":"Faça uma requisição POST para a rota /prever, enviando o ano, quilometragem, motor e num_revisoes do carro (Sempre no formato JSON)"
         })
     
 @app.route("/prever",methods=["POST"])
