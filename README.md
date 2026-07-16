@@ -18,13 +18,11 @@ O modelo utiliza a base de dados ```dataset_carros_usados.csv``` para realizar p
 - Quantidade de revisões 
 ---
 ### Arquitetura
-O modelo de M.L. está hospedado no Render.com, funcionando como uma API, retornando o preço estimado no formato JSON quando realizada uma requisição do tipo *POST* para o link:
+O modelo de M.L. está hospedado no Render.com, funcionando como uma API, retornando o preço estimado no formato JSON quando realizada uma requisição do tipo *POST* para o link: https://projeto-final-analise-dados-tarde.onrender.com/prever 
 
-https://projeto-final-analise-dados-tarde.onrender.com/prever 
-
-*Obs*: Para testes iniciais, realizar uma requisição do tipo GET para o link:
-
+**Observação**: Para testes iniciais, realizar uma requisição do tipo GET para o link:
 https://projeto-final-analise-dados-tarde.onrender.com
+
 ---
 ### Links
 
