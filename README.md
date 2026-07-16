@@ -19,7 +19,6 @@ Este projeto consiste em uma solução de ponta a ponta (*End-to-End*) de Machin
 | 📦 **Repositório GitHub** | [ProfPlatini/PROJETO-FINAL-ANALISE-DADOS-TARDE](https://github.com/ProfPlatini/PROJETO-FINAL-ANALISE-DADOS-TARDE) | Código-fonte, base de dados e documentação. |
 
 ---
-<<<<<<< HEAD
 ### Arquitetura
 O modelo de M.L. está hospedado no Render.com, funcionando como uma API, retornando o preço estimado no formato JSON quando realizada uma requisição do tipo *POST* para o link: https://projeto-final-analise-dados-tarde.onrender.com/prever 
 
