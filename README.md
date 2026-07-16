@@ -44,8 +44,6 @@ O projeto foi construído utilizando as seguintes ferramentas, bibliotecas e fra
 ### ☁️ Deploy, CD & FrontEnd
 * **[Render](https://render.com/)**: Hospedagem em nuvem da API REST com entrega contínua (CD).
 * **[Lovable](https://lovable.dev/)**: Desenvolvimento e hospedagem da interface Web (FrontEnd).
-
->>>>>>> e81d8ba3173ab198eccc4bff0417ef0a2e5b3b03
 ---
 
 ## ⚙️ Variáveis do Modelo
